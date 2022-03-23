@@ -1,0 +1,1 @@
+Array | Linked list both can think about two way pointer first
